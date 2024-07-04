@@ -13,10 +13,8 @@ NumPy (Numerical Python) is a fundamental package for scientific computing in Py
 1. **N-Dimensional Arrays**: NumPy provides a powerful N-dimensional array object called `ndarray`. These arrays are faster and more efficient than Python's built-in lists.
 2. **Broadcasting**: NumPy supports broadcasting, a mechanism that allows numpy to work with arrays of different shapes during arithmetic operations.
 3. **Universal Functions (ufuncs)**: These are functions that operate element-wise on arrays, providing a concise and efficient way to perform operations.
-4. **Vectorization**: NumPy enables vectorized operations, which are faster than traditional for-loop based operations.
-5. **Linear Algebra**: NumPy includes a rich set of linear algebra functions, including matrix operations and decompositions.
-6. **Random Number Generation**: The library includes tools for generating random numbers, which is useful for simulations and probabilistic models.
-7. **Integration with Other Libraries**: NumPy integrates seamlessly with other libraries like Pandas, Matplotlib, and SciPy, making it an essential tool in the data science ecosystem.
+4. **Random Number Generation**: The library includes tools for generating random numbers, which is useful for simulations and probabilistic models.
+
 
 ## Role of NumPy in Data Science
 
@@ -36,11 +34,9 @@ This repository contains a Jupyter Notebook that serves as my personal notes on 
 
 - Basic Array Operations
 - Advanced Indexing and Slicing
-- Broadcasting and Vectorized Operations
+- Broadcasting
 - Universal Functions
-- Linear Algebra with NumPy
 - Random Number Generation
-- Integrating NumPy with Pandas and Matplotlib
 
 ## Learning Resources
 
@@ -56,7 +52,3 @@ NumPy is an essential library for anyone involved in data science and scientific
 Feel free to explore the notebook, and if you have any questions or suggestions, please open an issue or contact me directly.
 
 Happy learning!
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
